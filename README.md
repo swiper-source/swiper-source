@@ -26,8 +26,8 @@
 <img align="center" src="tools7.svg" />
 </p>
 <p align="center">
-<a href="https://github.com/swiper-source"><img src="/public/github.svg" /></a>
-<a href="https://space.bilibili.com/1561621867"><img src="/public/bilibili.svg" /></a>
+<a href="https://github.com/swiper-source"><img src="github.svg" /></a>
+<a href="https://space.bilibili.com/1561621867"><img src="bilibili.svg" /></a>
 <img src="QQ.svg" />
 </p>
 
